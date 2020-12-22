@@ -1,0 +1,12 @@
+body  {
+  background: #fff;
+  color: #202124;
+}
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body, td, a, p, .h {
+  font-family: arial,sans-serif;
+}
